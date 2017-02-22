@@ -1,0 +1,102 @@
+
+
+
+
+body{
+  width: 100vw;
+  height: 100vh;
+  background-color: cyan;
+}
+
+.main{
+  margin-top: 10vh;
+  width: 50vw;
+  height: 35vh;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+}
+.box1 {
+
+  width:15vw;
+  height: 10vh;
+  background-color: rgb(235, 23, 30);
+  float:left;
+
+}
+.box2 {
+
+  width:15vw;
+  height:10vh;
+  background-color: rgb(55, 89, 176);
+  float: left;
+  margin-left: 2vw;
+}
+.box3 {
+
+  width:15vw;
+  height:10vh;
+  background-color: rgb(31, 32, 38);
+  float:left;
+  margin-left: 2vw;
+}
+.line{
+width: 50vw;
+margin-left: auto;
+margin-right: auto;
+padding: 1vw;
+}
+p{
+  font-size: 26px;
+  clear: left;
+  font-family:cursive;
+
+}
+.blue{
+
+  width:50vw;
+  height: 20vh;
+  background-color: rgb(8, 77, 112);
+  margin-left: auto;
+  margin-right: auto;
+
+
+}
+.red{
+  width:10vw;
+  height: 20vh;
+  background-color: red;
+  float: left;
+}
+
+.blue-line{
+  width:50vw;
+  height: 20vh;
+  background-color: rgb(12, 33, 121);
+  margin-left: auto;
+  margin-right: auto;
+
+
+}
+
+.black{
+  width:5.59vw;
+  height: 20vh;
+  background-color: black;
+  margin-left: 40;
+
+
+
+}
+
+
+
+.red-line{
+  width:10vw;
+  height: 20vh;
+  background-color: red;
+  float:right;
+  margin-right: 40;
+
+
+}
